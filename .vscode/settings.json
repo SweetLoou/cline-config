@@ -1,0 +1,6 @@
+{
+  "cline.rules": [
+    "${workspaceFolder}/cline-config/global-rules",
+    "${workspaceFolder}/cline-config/workspace-rules"
+  ]
+}
